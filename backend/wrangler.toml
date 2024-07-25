@@ -1,0 +1,7 @@
+name = "blogo"
+main = "worker.js"
+compatibility_date = "2023-08-23"
+
+[vars]
+DATABASE_URL="prisma://accelerate.prisma-data.net/?api_key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGlfa2V5IjoiZjgxMDJlMGYtZGVmNS00N2JiLWJiZDQtM2NjOGFlMTkwMmMwIiwidGVuYW50X2lkIjoiOTY5ZGI1Y2ZmYjAwOGQ2ZDFjMjljMTRlY2NhYWUyOTQ4NGE5OGM1NTVlYzZlYjI2ODk1ZGZhZTI3NDgzZjMxMCIsImludGVybmFsX3NlY3JldCI6IjY4NDM4ZjQzLWI2NzktNGM1MS1iMzRiLTdmZTZlODU2MDQ1OCJ9.2bon4G7utul4KaSukE632YWVh5F_iB8vIe8YTG6oZFw"
+JWT_SECRET = "asdasdasd"
