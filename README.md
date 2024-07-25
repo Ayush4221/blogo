@@ -1,2 +1,2 @@
 deployed on 
-https://blogo-6e2szaedm-ayushs-projects-a9adc1f1.vercel.app
+https://blogo-blond.vercel.app/signup
