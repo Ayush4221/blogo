@@ -1,2 +1,9 @@
-deployed on 
-https://blogo-blond.vercel.app/signup
+For Installation :
+In the root folder
+run cd frontend
+run npm isntall
+and lastly run
+
+npm run dev
+
+also add .env file in the frontend folder and backend folder 
