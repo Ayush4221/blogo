@@ -1,7 +1,7 @@
 For Installation :
 In the root folder
 run cd frontend
-run npm isntall
+run npm install
 and lastly run
 
 npm run dev
